@@ -1,4 +1,4 @@
-## Exercicio (Java):  Encontre a maior substring
+## Exercicio (Java):  Entrevista embaracosa
 
 O exercicio publicado é referente ao treinamento do Bootcamp Java - Praticando Programação em Java 
 (https://digitalinnovation.one)
